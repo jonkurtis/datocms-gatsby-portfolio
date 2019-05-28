@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-datocms-demo",
-  "description": "Gatsby DatoCMS creative portfolio demo",
+  "name": "Devengers",
+  "description": "An elite force of developers that represent the javascript comminty. ",
   "version": "1.0.0",
-  "author": "Stefano Verna <s.verna@datocms.com>",
+  "author": "Jon Kurtis",
   "dependencies": {
     "dotenv": "^6.0.0",
-    "gatsby": "^2.0.8",
+    "gatsby": "^2.7.3",
     "gatsby-image": "^2.0.9",
     "gatsby-plugin-react-helmet": "^3.0.0",
     "gatsby-plugin-sass": "^2.0.1",
@@ -27,7 +27,7 @@
   "main": "n/a",
   "scripts": {
     "build": "gatsby build",
-    "develop": "gatsby develop",
+    "start": "gatsby develop",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"src/**/*.js\""
   },
   "devDependencies": {
